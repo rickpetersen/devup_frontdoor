@@ -1,0 +1,11 @@
+C:\Users\dape\source\repos\fd-demo-rp\fd-demo-rp-client\bin\Debug\netcoreapp2.1\fd-demo-rp-client.deps.json
+C:\Users\dape\source\repos\fd-demo-rp\fd-demo-rp-client\bin\Debug\netcoreapp2.1\fd-demo-rp-client.runtimeconfig.json
+C:\Users\dape\source\repos\fd-demo-rp\fd-demo-rp-client\bin\Debug\netcoreapp2.1\fd-demo-rp-client.runtimeconfig.dev.json
+C:\Users\dape\source\repos\fd-demo-rp\fd-demo-rp-client\bin\Debug\netcoreapp2.1\fd-demo-rp-client.dll
+C:\Users\dape\source\repos\fd-demo-rp\fd-demo-rp-client\bin\Debug\netcoreapp2.1\fd-demo-rp-client.pdb
+C:\Users\dape\source\repos\fd-demo-rp\fd-demo-rp-client\obj\Debug\netcoreapp2.1\fd-demo-rp-client.csprojAssemblyReference.cache
+C:\Users\dape\source\repos\fd-demo-rp\fd-demo-rp-client\obj\Debug\netcoreapp2.1\fd-demo-rp-client.csproj.CoreCompileInputs.cache
+C:\Users\dape\source\repos\fd-demo-rp\fd-demo-rp-client\obj\Debug\netcoreapp2.1\fd-demo-rp-client.AssemblyInfoInputs.cache
+C:\Users\dape\source\repos\fd-demo-rp\fd-demo-rp-client\obj\Debug\netcoreapp2.1\fd-demo-rp-client.AssemblyInfo.cs
+C:\Users\dape\source\repos\fd-demo-rp\fd-demo-rp-client\obj\Debug\netcoreapp2.1\fd-demo-rp-client.dll
+C:\Users\dape\source\repos\fd-demo-rp\fd-demo-rp-client\obj\Debug\netcoreapp2.1\fd-demo-rp-client.pdb
